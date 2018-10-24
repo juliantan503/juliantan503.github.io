@@ -2,3 +2,6 @@ body {
     background-color: lightblue;
 }
 h2.solid {border-style: solid;}
+#grad {
+    background-image: linear-gradient(red, white);
+}
